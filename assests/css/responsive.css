@@ -1,0 +1,62 @@
+@media (max-width: 740px) {
+    .content-display-bottom{
+        margin: 4px 0;
+    }
+
+    .content-display-bottom h3{
+        font-size: 20px;
+        font-family: "Segoe UI",Arial,sans-serif;
+        font-weight: 400;
+    }
+
+    .content-display-bottom p{
+        font-size: 12px
+    }
+
+    .section-container{
+        padding: 44px 12px;
+    }
+
+    .section-container .section-title{
+        font-size: 24px;
+    }
+
+    .section-opacity{
+        font-size: 12px;
+    }
+
+    .section-description{
+        font-size: 14px;
+    }
+
+    .member-row{
+        flex-direction: column;
+    }
+
+    .buy-section-row{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .section-row-padding{
+        flex-direction: column;
+    }
+    
+    .left-col{
+        font-size: 16px;
+    }
+
+    .box-row{
+        margin-top: 30px;
+    }
+
+    .button-black-bottom{
+        font-size: 14px;
+    }
+
+    .footer-content-center{
+        font-size: 16px;
+    }
+
+    
+}   
